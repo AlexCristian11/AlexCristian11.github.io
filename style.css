@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(200, 221, 200);
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  width: 1000px;
+  margin: 0 auto;
+}
+table {
+  height: 400px;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+#table {
+  display: flex;
+  justify-content: center;
+}
+
+h1,
+h2 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "Space Mono", monospace;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: monospace;
+}
+
+.property {
+  color: rgb(10, 128, 98);
+}
+
+thead {
+  background-color: darkseagreen;
+}
+
+span {
+  font-style: italic;
+}
